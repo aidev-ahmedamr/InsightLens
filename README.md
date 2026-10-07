@@ -342,7 +342,7 @@ A custom Gradio interface allows users to interact with the system without direc
 ## 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/InsightLens.git
+git clone https://github.com/aidev-ahmedamr/InsightLens.git
 cd InsightLens
 ```
 
