@@ -8,8 +8,8 @@ import re
 # INSIGHTLENS CONFIGURATION
 # ============================================================
 
-NGROK_URL = "https://dealt-silver-fondness.ngrok-free.dev"
-API_KEY = "secret123"
+NGROK_URL = "xxxxxxxx"
+API_KEY = "xxxxxxxx"
 
 
 # ============================================================
