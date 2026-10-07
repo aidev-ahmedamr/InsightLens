@@ -1,0 +1,13 @@
+transformers
+accelerate
+bitsandbytes
+sentence-transformers
+faiss-cpu
+datasets
+torch
+fastapi
+uvicorn
+pyngrok
+requests
+gradio
+numpy
